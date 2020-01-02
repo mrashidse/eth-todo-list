@@ -1,0 +1,13 @@
+
+=======================Truffle Commands
+>truffle comiple
+
+>truffle migrate
+>truffle migrate --reset
+
+>truffle conosle
+
+
+=======================lite-server Commands
+> npm run dev
+
